@@ -9,7 +9,7 @@ We can robustify them by training on 1K examples and increase QA accuracy
 ![Alt text](images/retrobust_fig_1.png?raw=true "Retrobust examples")
 
 ### 🧗🏽 Experiments framework
-LLama-2 inference servers were set up with [**lm-sys/FastChat**](https://github.com/lm-sys/FastChat). Experiments were run using the framework from the [**Multi-Chain Reasoning Paper**](https://arxiv.org/abs/2304.13007).
+LLama-2 inference servers were set using [**lm-sys/FastChat**](https://github.com/lm-sys/FastChat). Experiments were run using the framework from the [**Multi-Chain Reasoning Paper**](https://github.com/oriyor/reasoning-on-cots).
 
 ###  🤗 Data and Models
 Our models are publicly available at the [**RetRobust HuggingFace Collection**](https://huggingface.co/collections/Ori/retrobust-65198eef2b4fffcb4100e163).
