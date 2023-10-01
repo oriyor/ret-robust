@@ -1,5 +1,6 @@
 ## 🪨️ Making Retrieval-Augmented Language Models Robust to Irrelevant Context
 
+### RetRobust Overview
 
 Augmenting RALMs with irrelevant context can significantly decrease performance.
 We can robustify them by training on 1K examples and increase QA accuracy
