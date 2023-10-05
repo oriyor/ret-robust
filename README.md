@@ -1,8 +1,8 @@
 ## 🪨️ Making Retrieval-Augmented Language Models Robust to Irrelevant Context
 
 ### RetRobust Overview
-By training RALMs on 1K examples we can make them robust to irrelevant context and improve QA performance.
-[**Paper at http://arxiv.org/abs/2310.01558**](http://arxiv.org/abs/2310.01558)
+By training RALMs on 1K examples we can make them robust to irrelevant context and improve QA performance
+[**[Paper]**](http://arxiv.org/abs/2310.01558).
 
 ![Alt text](images/retrobust_fig_1.png?raw=true "Retrobust examples")
 
@@ -16,6 +16,12 @@ LLama-2 inference servers were set using [**lm-sys/FastChat**](https://github.co
 ### ✍ Citation
 ```
 bibtex
-@article{
+@misc{yoran2023making,
+      title={Making Retrieval-Augmented Language Models Robust to Irrelevant Context}, 
+      author={Ori Yoran and Tomer Wolfson and Ori Ram and Jonathan Berant},
+      year={2023},
+      eprint={2310.01558},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
