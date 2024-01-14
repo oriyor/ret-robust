@@ -17,7 +17,7 @@ LLama-2 inference servers were set using [**lm-sys/FastChat**](https://github.co
 See [**here**](training/README.md).
 
 ### ⚔️️ NLI filtering
-See [**here**](training/README.md).
+See [**here**](nli/README.md).
 
 ### ✍ Citation
 ```
